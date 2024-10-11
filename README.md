@@ -5,3 +5,7 @@ This repositoty contains the CU Staking Badges contracts, developed using the te
 Developed by Laguna Games for Crypto Unicorns
 
 ---
+
+## Deployments
+
+- Arbitrum `0x1a697d4d9B12c53dc8cC89356DDce1B658851E01`
